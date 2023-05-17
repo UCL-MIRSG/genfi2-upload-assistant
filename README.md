@@ -1,8 +1,8 @@
-# Download site for the GENFI2 Upload Assistant
+# Download site for the GENFI2 Upload Assistant
 
 If you are upgrading your GENFI2 Upload Assistant, please uninstall the previous version first for a proper upgrade.
 
-[Click here for latest release downloads](https://cmiclab.cs.ucl.ac.uk/MIRSG/Projects/genfi2-upload-assistant/-/releases)
+[Click here for latest release downloads](https://github.com/UCL-MIRSG/genfi2-upload-assistant/releases)
 
 ## Version History
 
