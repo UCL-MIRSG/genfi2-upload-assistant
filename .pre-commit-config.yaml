@@ -4,3 +4,7 @@ repos:
     rev: v0.219.0
     hooks:
       - id: mirsg-hooks
+        exclude: |-
+          (?x)^(
+            releases/.*
+          )$
